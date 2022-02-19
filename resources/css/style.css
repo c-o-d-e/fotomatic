@@ -8,7 +8,8 @@ html {
 .main-content {
   position: static;
   top: 5.3125rem; /* To offset for fixed header. */
-  background: url(/resources/images/banner-landingpage.jpg) no-repeat;
+  background: url(https://github.com/c-o-d-e/fotomatic/blob/main/resources/images/banner-landingpage.jpg)
+    no-repeat;
   width: 100%;
 }
 
